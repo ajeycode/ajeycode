@@ -1,4 +1,4 @@
-## H👋 Hi, I'm Ajay Yadav! Welcome to my GitHub profile!
+## 👋 Hi, I'm Ajay Yadav! Welcome to my GitHub profile!
 
 <!--
 **ajeycode/ajeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
